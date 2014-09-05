@@ -1,0 +1,16 @@
+{
+    "name": "elenajs-swig",
+    "amdName": "swig",
+    "version": "0.0.1",
+    "author": {
+        "name": "kiuma",
+        "email": "kiuma72@gmail.com"
+    },
+    "main": "./lib/main",
+    "directories": {
+        "lib": "./lib"
+    },
+    "dependencies": {
+        "swig": "1.4.x"
+    }
+}
