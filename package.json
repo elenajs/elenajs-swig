@@ -6,6 +6,16 @@
         "name": "kiuma",
         "email": "kiuma72@gmail.com"
     },
+    "keywords": [
+      "elenajs",
+      "plugin",
+      "swig",
+      "templating",
+      "template"
+      ],
+  "homepage": "http://elenajs.org/",    
+  "repository": "elenajs/elenajs-swig",
+  "license": "BSD",
     "main": "./lib/main",
     "directories": {
         "lib": "./lib"
